@@ -1,4 +1,4 @@
-### Hello travler 👋
+### Hello traveller 👋
 
 - 🔭 I’m currently working on AI and Web App Projects
 - 🌱 I’m currently learning TensorFlow and C
