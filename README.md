@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning TensorFlow and C
 - 👯 I’m looking to collaborate on open source projects and hackathons
 - 📫 How to reach me: destkramers@gmail.com
+- 💻 Looking for work!
