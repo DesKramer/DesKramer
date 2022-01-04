@@ -10,4 +10,4 @@
 [![DesKramers's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesKramer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesKramer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DesKramer/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesKramer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
