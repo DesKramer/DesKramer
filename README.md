@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning TensorFlow and C
 - 👯 I’m looking to collaborate on open source projects and hackathons
 - 📫 How to reach me: destkramers@gmail.com
-- 💻 ~~Check out my site -> www.deskramer.space ~~/ Not Finished Yet
 
 [![DesKramers's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesKramer&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
